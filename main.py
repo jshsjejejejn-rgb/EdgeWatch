@@ -1,0 +1,1 @@
+print("EdgeWatch system started")
